@@ -1,0 +1,5 @@
+admin
+adminLogin
+*
+gobi
+123
